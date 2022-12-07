@@ -1,1 +1,0 @@
-series_1=c("ent","ri","rd")
