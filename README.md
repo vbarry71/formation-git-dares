@@ -1,3 +1,3 @@
-# Fomration Git Dares
+# Formation Git Dares
 
 Versioning
